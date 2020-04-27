@@ -5,7 +5,7 @@ public class BitReverseOperatorExample{
 		int num2 = -num1;
 		String returnValue = toBinaryString(num1);
 		System.out.println(returnValue);
-		
+	
 		System.out.println(num2);
 		returnValue = toBinaryString(num2);
 		System.out.println(returnValue);
